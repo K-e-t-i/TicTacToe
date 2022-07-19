@@ -4,4 +4,4 @@ This is a university project of popular game Tic Tac Toe. It's based on the Unit
 Let's play and lose yourself in the world of circles and crosses! 😵
 
 
-![Screenshot](https://github.com/K-e-t-i/TicTacToe/blob/main/images/5.jpg  | width=100)
+![Screenshot](images/5.jpg  | width=100)
